@@ -123,7 +123,9 @@ Upon termination:
 ## 11. Dispute Resolution
 
 ### 11.1 Governing Law
-These Terms shall be governed by and construed in accordance with the laws of the applicable jurisdiction, without regard to conflict of law principles.
+These Terms shall be governed by and construed in accordance with the laws of [State/Country], without regard to conflict of law principles.
+
+<!-- Note: Replace [State/Country] with your actual jurisdiction before use -->
 
 ### 11.2 Informal Resolution
 Before initiating formal proceedings, we encourage you to contact us to seek an informal resolution of any dispute.
@@ -160,6 +162,8 @@ If you have any questions about these Terms, please contact us:
 
 - **Email:** [Your contact email]
 - **Website:** [Your website]
+
+<!-- Note: Replace the bracketed placeholders above with your actual contact information before use -->
 
 ---
 
