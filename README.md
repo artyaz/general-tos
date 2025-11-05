@@ -1,7 +1,7 @@
 # Terms of Service
 
-**Effective Date:** January 1, 2025  
-**Last Updated:** January 1, 2025
+**Effective Date:** November 6, 2025  
+**Last Updated:** November 6, 2025  
 
 ## 1. Introduction
 
@@ -123,9 +123,7 @@ Upon termination:
 ## 11. Dispute Resolution
 
 ### 11.1 Governing Law
-These Terms shall be governed by and construed in accordance with the laws of [State/Country], without regard to conflict of law principles.
-
-<!-- Note: Replace [State/Country] with your actual jurisdiction before use -->
+These Terms shall be governed by and construed in accordance with the laws of Ukraine, without regard to conflict of law principles.
 
 ### 11.2 Informal Resolution
 Before initiating formal proceedings, we encourage you to contact us to seek an informal resolution of any dispute.
@@ -160,10 +158,7 @@ We shall not be liable for any failure or delay in performance due to circumstan
 
 If you have any questions about these Terms, please contact us:
 
-- **Email:** [Your contact email]
-- **Website:** [Your website]
-
-<!-- Note: Replace the bracketed placeholders above with your actual contact information before use -->
+- **Email:** b.artem.ch@gmail.com
 
 ---
 
